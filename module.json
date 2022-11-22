@@ -182,6 +182,6 @@
     }
   ],
   "download": "https://github.com/sizzlewow/shared-compendium/v1-0-0.zip",
-  "manifest": "https://github.com/sizzlewow/shared-compendium/module.json",
+  "manifest": "https://raw.githubusercontent.com/sizzlewow/shared-compendium/main/module.json",
   "url": ""
 }
